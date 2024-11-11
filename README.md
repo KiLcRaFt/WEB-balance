@@ -10,7 +10,7 @@
   2. Называем базу данных, как угодно.
   3. Первая таблица "agapov"
      Структура таблицы:
-     ![image](https://github.com/user-attachments/assets/34294519-ca1e-480d-be7b-0f81667f1783)
+     ![image](https://github.com/user-attachments/assets/2827ccbd-0561-4d6a-ae75-9f3f5adf905d)
 
 ````
     CREATE TABLE `your_database_name`.`agapov` (
